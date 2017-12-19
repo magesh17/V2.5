@@ -1,0 +1,299 @@
+/*Just Add "dark-layout" class to body and add this file after style.css file in head. Layout will change to dark */
+
+body.dark-layout{
+	background-color:#2f2f2f;
+	color:#959595;
+}
+
+.dark-layout .sec-title-three h3{
+	color:#ffffff;
+}
+
+.dark-layout .sec-title-three h2{
+	color:#353535;
+}
+
+.dark-layout .btn-style-four{
+	border-color:#c5912d;
+	color:#c5912d;
+}
+
+.dark-layout .btn-style-three{
+	background:none;
+	color:#ffffff;
+	border:2px solid #e5a62c;
+}
+
+.dark-layout .btn-style-three:hover{
+	background: #e5a62c;
+	border-color:#e5a62c;
+	color:#ffffff;
+}
+
+.dark-layout .about-section .image-column .inner-box:before{
+    border-top: 500px solid #e5a62c;
+}
+
+.dark-layout .about-section .image-column .overlay-box{
+	padding:0px !important;
+}
+
+.dark-layout .about-section .image-column .overlay-box .overlay-inner{
+	background:rgba(0,0,0,0.48);
+}
+
+.dark-layout .about-section .image-column .inner-box .content .total{
+	color:#ffffff;
+}
+
+.dark-layout .about-section .image-column .inner-box .content .text{
+	color:#ffffff;
+}
+
+.dark-layout .sec-title h2,
+.dark-layout .sec-title-two h2{
+	color:#353535;
+}
+
+.dark-layout .sec-title h4{
+	color:#ffffff;
+}
+
+.dark-layout .about-section .content-column .inner-box .text p{
+	color:#adadad;
+}
+
+.dark-layout .project-section .view-all,
+.dark-layout .team-section .carousel-column .view-member,
+.dark-layout .news-section .go-to-blog,
+.dark-layout .project-single-section .more-posts a{
+	color:#ffffff;
+	border-color:#ffffff;
+}
+
+.dark-layout .fact-counter .column .inner,
+.dark-layout .project-block .triangle-curve:after,
+.dark-layout .project-block-two .triangle-curve:after{
+	box-shadow:none;
+	background-color:#333333;
+}
+
+.dark-layout .fact-counter .column .inner .count-text,
+.dark-layout .fact-counter .column .inner .total-client,
+.dark-layout .sidebar .list li a:hover,
+.dark-layout .sidebar .popular-posts .post h4 a:hover{
+	color:#e5a62c;
+}
+
+.dark-layout .project-block .content-column .inner-box h2 a,
+.dark-layout .project-block .content-column .inner-box .more-detail,
+.dark-layout .project-block-two .content-column .inner-box h2 a,
+.dark-layout .project-block-two .content-column .inner-box .more-detail,
+.dark-layout .service-block .inner-box .icon-box,
+.dark-layout .service-block .inner-box h3 a,
+.dark-layout .team-member .inner h3 a,
+.dark-layout .testimonial-block .content-column .inner h2,
+.dark-layout .testimonial-block .content-column .inner .author,
+.dark-layout .news-block .inner-box .lower-content h3 a,
+.dark-layout .skilled-section .content-column .inner-box h2,
+.dark-layout .progress-levels .progress-box .box-title,
+.dark-layout .service-quality-section .content-column .inner-box h2,
+.dark-layout .tabs-box .tab-buttons .tab-btn,
+.dark-layout .project-section .filters .filter,
+.dark-layout .project-block .content-column .inner-box h2,
+.dark-layout .project-block-two .content-column .inner-box h2,
+.dark-layout .sidebar .sidebar-widget .sidebar-title h3,
+.dark-layout .sidebar .popular-posts .post h4 a,
+.dark-layout .blog-section.blog-single .news-block .lower-content h3,
+.dark-layout .news-block .inner-box .lower-content .text blockquote,
+.dark-layout .blog-section .post-share-options .tags strong,
+.dark-layout .sidebar-page-container .group-title h2,
+.dark-layout .sidebar-page-container .comments-area .comment-box strong,
+.dark-layout .sidebar-page-container .comments-area .comment-box .reply-btn,
+.dark-layout .comment-form .comment-title h2,
+.dark-layout .address-section .address-column h3,
+.dark-layout .address-section .address-column .contact-info li h4{
+	color:#ffffff;
+}
+
+.dark-layout .news-block .inner-box .lower-content .text blockquote{
+	border-color:#e5a62c;
+}
+
+.dark-layout .tabs-box .tab-buttons .tab-btn.active-btn,
+.dark-layout .tabs-box .tab-buttons .tab-btn:hover,
+.dark-layout .project-section .filters .filter.active,
+.dark-layout .project-section .filters .filter:hover{
+	color:#e5a62c;
+}
+
+.dark-layout .testimonial-block .image-column .image:before{
+	background-color:#e5a62c;
+}
+
+.dark-layout .service-block .inner-box:hover .title,
+.dark-layout .address-section .address-column .contact-info li:hover .icon-box{
+	color:#e5a62c;
+}
+
+.dark-layout .service-block .inner-box:hover .text{
+	color:#959595;
+}
+
+.dark-layout .services-section .service-inner{
+	margin-top:-180px;
+}
+
+.dark-layout .service-block .inner-box .arow-box{
+	position:relative;
+	left:0px;
+	margin-left:0px;
+}
+
+.dark-layout .service-block .inner-box .arow-box a{
+	width:25px;
+	height:25px;
+	font-size:16px;
+	line-height:25px;
+}
+
+.dark-layout .project-block .image-column .image,
+.dark-layout .project-block-two .image-column .image{
+	border-color:#e7b04b;
+}
+
+.dark-layout .project-block .triangle-curve:before,
+.dark-layout .project-block .triangle-curve:after,
+.dark-layout .project-block-two .triangle-curve:before,
+.dark-layout .project-block-two .triangle-curve:after,
+.dark-layout .team-member .inner:before{
+	border-color:#333333;
+}
+
+.dark-layout .services-section{
+	background:url(../images/background/6.png) no-repeat;
+	background-size:cover;
+	background-repeat:no-repeat;
+}
+
+.dark-layout .services-title,
+.dark-layout .workflow-section,
+.dark-layout .testimonial-section{
+	background:none !important;
+}
+
+.dark-layout .service-block .inner-box{
+	background:none;
+	border:0px;
+	padding-left:0px;
+}
+
+.dark-layout .services-section .service-block{
+	padding:0px 15px;
+}
+
+.dark-layout .services-section .service-inner .row{
+	margin:0px -15px;
+}
+
+.dark-layout .testimonial-block .content-column .inner .text:after{
+	color:#383838;
+}
+
+.dark-layout .news-block .inner-box .lower-content .posted-date li:first-child{
+	color:#e5a62c;
+}
+
+.dark-layout .skilled-section{
+	background-color:#2f2f2f;
+	padding:0px;
+	margin-bottom:100px;
+}
+
+.dark-layout .progress-levels .progress-box .bar .bar-innner{
+	background-color:#3d3d3d;
+}
+
+.dark-layout .project-block-two.style-two .image-column:after,
+.dark-layout .project-block.style-two .image-column:after{
+	background-color:#353535;
+}
+
+.dark-layout .sidebar .search-box .form-group input[type="text"],
+.dark-layout .sidebar .search-box .form-group input[type="search"]{
+	background-color:#242424;
+	border-color:#242424;
+	box-shadow:none;
+}
+
+.dark-layout .sidebar .search-box .form-group button,
+.dark-layout .sidebar .popular-tags a:hover{
+	background-color:#e5a62c;
+}
+
+.dark-layout .sidebar .popular-tags a{
+	background-color:#242424;
+}
+
+.dark-layout .styled-pagination li a:hover,
+.dark-layout .styled-pagination li a.active,
+.dark-layout .project-block .content-column .inner-box h2 a:hover,
+.dark-layout .project-block .content-column .inner-box .more-detail:hover,
+.dark-layout .project-block-two .content-column .inner-box h2 a:hover,
+.dark-layout .project-block-two .content-column .inner-box .more-detail:hover,
+.dark-layout .service-block .inner-box h3 a:hover,
+.dark-layout .team-member .inner h3 a:hover,
+.dark-layout .news-block .inner-box .lower-content h3 a:hover{
+	color:#e5a62c;
+}
+
+.dark-layout .blog-section .post-share-options{
+	box-shadow:none;
+	background-color:#242424;
+}
+
+.dark-layout .social-icon-two a{
+	background-color:#303030;
+	color:#aaaaaa;
+}
+
+.dark-layout .social-icon-two a:hover{
+	color:#ffffff;
+	background-color:#e5a62c;
+}
+
+.dark-layout .sidebar-page-container .comments-area .comment-inner{
+	background-color:#242424;
+	border-color:#242424;
+}
+
+.dark-layout .sidebar-page-container .comments-area .comment .content-box{
+	border-color:#2b2b2b;
+}
+
+.dark-layout .sidebar-page-container .comments-area .comment-info .comment-time{
+	color:#606060;
+}
+
+.dark-layout .comment-form .form-group input,
+.dark-layout .comment-form .form-group textarea{
+	background:#242424;
+	border-color:#242424;
+}
+
+.dark-layout .address-section .address-column .contact-info li .icon-box{
+	background-color:#ffffff;
+	box-shadow:none;
+}
+
+.dark-layout .project-section .view-all:hover,
+.dark-layout .team-section .carousel-column .view-member:hover,
+.dark-layout .news-section .go-to-blog:hover,
+.dark-layout .project-single-section .more-posts a:hover{
+	color:#e5a62c;
+	border-color:#e5a62c;
+}
+
+.dark-layout .about-section .content-column:before{
+	border-color:rgba(255,255,255,0.05);
+}
